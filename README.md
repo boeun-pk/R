@@ -7,7 +7,7 @@
 
 초보자도 쉽게 배울 수 있도록 R 수업 내용을 정리하였습니다.
 
-<img src="https://github.com/boeun-pk/R-/blob/main/R%20%EC%88%98%EC%97%85%20%EB%85%B8%ED%8A%B8_%EA%B9%83%ED%97%88%EB%B8%8C.egg" width="600" height="400">
+<img src="https://github.com/boeun-pk/R-/blob/main/R%20%EC%88%98%EC%97%85%20%ED%91%9C%EC%A7%80.png" width="600" height="400">
 
 &nbsp;
 
