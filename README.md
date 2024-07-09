@@ -68,16 +68,16 @@
 
 - **예제3. SQL 과 R 과의 차이점은 무엇인가 ?**: 📄 [노트](https://bold-bergamot-e04.notion.site/R-3-SQL-R-30f6b7db1f4941df8f22498126af5a03?pvs=73)
 
-- **예제4. R의 자료 구조 5가지를 알아야해요!**: 📄 [노트](https://bold-bergamot-e04.notion.site/R-4-R-5-95b945f0c71744d28f6b489e2be37d0e?pvs=73)
+- **예제4. R의 자료 구조 5가지**: 📄 [노트](https://bold-bergamot-e04.notion.site/R-4-R-5-95b945f0c71744d28f6b489e2be37d0e?pvs=73)
 
-- **예제5. 데이터를 검색할 줄 알아야해요 !**: 📄 [노트](https://bold-bergamot-e04.notion.site/R-5-926809c0fd064d108fbfd7cef1cd451d?pvs=73)
+- **예제5. 데이터 검색하기 기본**: 📄 [노트](https://bold-bergamot-e04.notion.site/R-5-926809c0fd064d108fbfd7cef1cd451d?pvs=73)
 
-- **예제6. R 에서 사용하는 연산자 3가지를 알아야해 !**: 📄 [노트](https://bold-bergamot-e04.notion.site/R-6-R-3-f4752c086db247e1b9de98f81c745a72?pvs=73)
+- **예제6. R 연산자 3가지**: 📄 [노트](https://bold-bergamot-e04.notion.site/R-6-R-3-f4752c086db247e1b9de98f81c745a72?pvs=73)
 
-- **예제7. 연결 연산자를 알아야해요 !**: 📄 [노트](https://bold-bergamot-e04.notion.site/R-7-paste-4f9d20effef84b2fb541cfef20d1fef4?pvs=73)
+- **예제7. 연결 연산자 paste**: 📄 [노트](https://bold-bergamot-e04.notion.site/R-7-paste-4f9d20effef84b2fb541cfef20d1fef4?pvs=73)
 
-- **예제8. 여러개의 데이터를 검색할 때는 %in% 를 사용해야해요 !**: 📄 [노트](https://bold-bergamot-e04.notion.site/R-8-in-f500358d396b410f8d923c7c64b4c8f1?pvs=73)
+- **예제8. 여러개의 데이터를 검색할 때는 %in% 를 사용하기**: 📄 [노트](https://bold-bergamot-e04.notion.site/R-8-in-f500358d396b410f8d923c7c64b4c8f1?pvs=73)
 
-- **예제9. 결측치 데이터를 검색할 때는 is.na 함수를 사용해야해요 !**: 📄 [노트](https://bold-bergamot-e04.notion.site/R-9-is-na-ef01d6e7fdde449abf9bff40b456dd04?pvs=73)
+- **예제9. 결측치 데이터를 검색할 때는 is.na 함수를 사용하기**: 📄 [노트](https://bold-bergamot-e04.notion.site/R-9-is-na-ef01d6e7fdde449abf9bff40b456dd04?pvs=73)
 
 
