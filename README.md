@@ -58,7 +58,7 @@
 11장 : 모델성능개선
 
 
-## 수업 자료( ☀️ 2024년 7월 9일 updated)
+## 수업 자료( ☀️ 2024년 7월 15일 updated)
 
 
 - **예제1. R 을 배워야하는 이유 ?**:  📄[노트](https://bold-bergamot-e04.notion.site/R-1-R-1594fa83c6f24c65b98943be6dcea311?pvs=73)
@@ -135,6 +135,31 @@
 
 - **예제29. R의 outer join - merge**: 📄 [노트](https://bold-bergamot-e04.notion.site/R-29-R-outer-join-merge-8b7fff50724e46b78663ff72bcbbae47?pvs=73)
 
+
+
+
+
+- **예제30. R 예제 30) R의 self join - merge**:  📄[노트](https://bold-bergamot-e04.notion.site/R-30-R-self-join-merge-866df422a87646abbf62e1be5b67d512?pvs=73)
+  &nbsp;
+  
+- **예제31. R 예제 31) 구글 코랩을 이용하여 R 코드로 데이터 분석하기**:  📄[노트](https://bold-bergamot-e04.notion.site/R-31-R-afddc1ff435a4e23939895511affbbb7?pvs=73)
+
+  
+- **예제32. R 예제 32) R의 집합 연산자 - rbind, intersect, setdiff**: 📄 [노트](https://bold-bergamot-e04.notion.site/R-32-R-rbind-intersect-setdiff-5de9b68f61b44c098ce35f82671c0ab6?pvs=73)
+
+- **예제33. R 예제 33) R의 서브 쿼리**: 📄 [노트](https://bold-bergamot-e04.notion.site/R-33-R-fc0a60ec3565484d82f96381dc72fda7?pvs=73)
+
+- **예제34. R 예제 34) R의 순위 출력 - rank, dense_rank**: 📄 [노트](https://bold-bergamot-e04.notion.site/R-34-R-rank-dense_rank-3c0ab106d8d6447fb8f335f65dc7c893?pvs=73)
+
+- **예제35. R 예제 35) R의 함수 생성 방법**: 📄 [노트](https://bold-bergamot-e04.notion.site/R-35-R-24827bad5244442799596673c3b8caf6?pvs=73)
+
+- **예제36. R 예제 36) R의 IF문**: 📄 [노트](https://bold-bergamot-e04.notion.site/R-36-R-IF-25c70a91945d4a979d411fc78357a70c?pvs=73)
+
+- **예제37. R 예제 37) R의 loop문**: 📄 [노트](https://bold-bergamot-e04.notion.site/R-37-R-loop-2d0e26dc8ea64227b8c75fa882271198?pvs=73)
+
+- **예제38. R 예제 38) 데이터 시각화 1 (막대 그래프)**: 📄 [노트](https://bold-bergamot-e04.notion.site/R-38-1-e75029b62145452bad52a6e883f5c897?pvs=73)
+
+- **예제39. R 예제 39) 데이터 시각화 2 (원형 그래프)**: 📄 [노트](https://bold-bergamot-e04.notion.site/R-39-2-5c0a8a5896344c44a4d96baff1111fbd?pvs=73)
 
 
 
